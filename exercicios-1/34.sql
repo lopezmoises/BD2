@@ -1,0 +1,1 @@
+SELECT * FROM psdb.employees WHERE first_name LIKE '%Crist%' AND emp_no <= 37126;
