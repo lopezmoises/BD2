@@ -1,0 +1,1 @@
+SELECT MIN(SurfaceArea) AS Minima_area FROM world.country;

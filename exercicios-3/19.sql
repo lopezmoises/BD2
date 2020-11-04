@@ -1,0 +1,1 @@
+SELECT SUM(amount) AS Total_pagamentos FROM sakila.payment;

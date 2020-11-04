@@ -1,0 +1,1 @@
+SELECT AVG(SurfaceArea) AS Media_areas FROM world.country;

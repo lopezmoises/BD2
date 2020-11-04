@@ -1,0 +1,1 @@
+SELECT AVG(amount) AS Media_pagamentos FROM sakila.payment;
